@@ -1,0 +1,7 @@
+c:\users\tymot\source\repos\SHA256\SHA256\obj\Debug\SHA256.csprojResolveAssemblyReference.cache
+c:\users\tymot\source\repos\SHA256\SHA256\obj\Debug\SHA256.csproj.CoreCompileInputs.cache
+C:\Users\tymot\source\repos\SHA256\SHA256\bin\Debug\SHA256.exe.config
+C:\Users\tymot\source\repos\SHA256\SHA256\bin\Debug\SHA256.exe
+C:\Users\tymot\source\repos\SHA256\SHA256\bin\Debug\SHA256.pdb
+C:\Users\tymot\source\repos\SHA256\SHA256\obj\Debug\SHA256.exe
+C:\Users\tymot\source\repos\SHA256\SHA256\obj\Debug\SHA256.pdb
